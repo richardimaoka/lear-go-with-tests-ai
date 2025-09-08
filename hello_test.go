@@ -2,8 +2,8 @@ package main
 
 import "testing"
 
-func TestGreet(t *testing.T) {
-	got := Greet()
+func TestHello(t *testing.T) {
+	got := Hello()
 	want := "Hello, world"
 
 	if got != want {
