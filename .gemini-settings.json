@@ -1,0 +1,5 @@
+{
+  "onFileChange": {
+    "command": "go test ."
+  }
+}
